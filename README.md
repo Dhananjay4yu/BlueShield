@@ -61,7 +61,3 @@
   <li><strong>🧠 Detection Model (v1):</strong> <a href="https://www.youtube.com/watch?v=a7DWoUA1grI">Watch on YouTube</a></li>
   <li><strong>🧩 3D Model (v2):</strong> <a href="https://www.youtube.com/watch?v=p7BfaWVgcpA">Watch on YouTube</a></li>
 </ul>
-
-<p align="center">
-  <img src="images/v1.jpg" alt="JalRakshak V1" width="70%" />
-</p>
